@@ -1,0 +1,15 @@
+C:\CalcProst\ProstoCalculator\ProstoCalculator\obj\Debug\net6.0\ProstoCalculator.csproj.AssemblyReference.cache
+C:\CalcProst\ProstoCalculator\ProstoCalculator\obj\Debug\net6.0\ProstoCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\CalcProst\ProstoCalculator\ProstoCalculator\obj\Debug\net6.0\ProstoCalculator.AssemblyInfoInputs.cache
+C:\CalcProst\ProstoCalculator\ProstoCalculator\obj\Debug\net6.0\ProstoCalculator.AssemblyInfo.cs
+C:\CalcProst\ProstoCalculator\ProstoCalculator\obj\Debug\net6.0\ProstoCalculator.csproj.CoreCompileInputs.cache
+C:\CalcProst\ProstoCalculator\ProstoCalculator\bin\Debug\net6.0\ProstoCalculator.exe
+C:\CalcProst\ProstoCalculator\ProstoCalculator\bin\Debug\net6.0\ProstoCalculator.deps.json
+C:\CalcProst\ProstoCalculator\ProstoCalculator\bin\Debug\net6.0\ProstoCalculator.runtimeconfig.json
+C:\CalcProst\ProstoCalculator\ProstoCalculator\bin\Debug\net6.0\ProstoCalculator.dll
+C:\CalcProst\ProstoCalculator\ProstoCalculator\bin\Debug\net6.0\ProstoCalculator.pdb
+C:\CalcProst\ProstoCalculator\ProstoCalculator\obj\Debug\net6.0\ProstoCalculator.dll
+C:\CalcProst\ProstoCalculator\ProstoCalculator\obj\Debug\net6.0\refint\ProstoCalculator.dll
+C:\CalcProst\ProstoCalculator\ProstoCalculator\obj\Debug\net6.0\ProstoCalculator.pdb
+C:\CalcProst\ProstoCalculator\ProstoCalculator\obj\Debug\net6.0\ProstoCalculator.genruntimeconfig.cache
+C:\CalcProst\ProstoCalculator\ProstoCalculator\obj\Debug\net6.0\ref\ProstoCalculator.dll
